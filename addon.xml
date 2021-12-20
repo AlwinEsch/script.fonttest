@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.fonttest" name="Font test" version="1.0.0" provider-name="Alwin Esch">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+    </requires>
+    <extension point="xbmc.python.script" library="addon.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en_GB">Font test addon</summary>
+        <description lang="en_GB">Used to test in Kodi, via dialogue, the view of various UTF8 charactes.</description>
+        <platform>all</platform>
+    </extension>
+</addon>

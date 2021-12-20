@@ -1,0 +1,162 @@
+@	Common	Common
+L	Latin	Latin
+字	Han	Han
+Я	Cyrillic	Cyrillic
+か	Hiragana	Hiragana
+カ	Katakana	Katakana
+ท	Thai	Thai
+ب	Arabic	Arabic
+가	Hangul	Hangul
+अ	Devanagari	Devanagari
+Ω	Greek	Greek
+א	Hebrew	Hebrew
+க	Tamil	Tamil
+ಕ	Kannada	Kannada
+დ	Georgian	Georgian
+ക	Malayalam	Malayalam
+క	Telugu	Telugu
+Ա	Armenian	Armenian
+က	Myanmar	Myanmar
+ક	Gujarati	Gujarati
+ক	Bengali	Bengali
+ਕ	Gurmukhi	Gurmukhi
+ລ	Lao	Lao
+̈	Inherited	Inherited
+ក	Khmer	Khmer
+ཀ	Tibetan	Tibetan
+අ	Sinhala	Sinhala
+አ	Ethiopic	Ethiopic
+ތ	Thaana	Thaana
+କ	Oriya	Oriya
+﷐	Unknown	Unknown
+ᓀ	Canadian Aboriginal	Canadian_Aboriginal
+ܐ	Syriac	Syriac
+ㄅ	Bopomofo	Bopomofo
+ߘ	Nko	Nko
+Ꮔ	Cherokee	Cherokee
+ꊈ	Yi	Yi
+ࠀ	Samaritan	Samaritan
+Ϣ	Coptic	Coptic
+ᠦ	Mongolian	Mongolian
+Ⰰ	Glagolitic	Glagolitic
+ꕉ	Vai	Vai
+ᬅ	Balinese	Balinese
+ⵞ	Tifinagh	Tifinagh
+ꚠ	Bamum	Bamum
+ᯀ	Batak	Batak
+ꨀ	Cham	Cham
+ꦄ	Javanese	Javanese
+ꤊ	Kayah Li	Kayah_Li
+ᰀ	Lepcha	Lepcha
+ᤀ	Limbu	Limbu
+ꓨ	Lisu	Lisu
+ࡀ	Mandaic	Mandaic
+ꯀ	Meetei Mayek	Meetei_Mayek
+ᦀ	New Tai Lue	New_Tai_Lue
+ᱚ	Ol Chiki	Ol_Chiki
+ꢂ	Saurashtra	Saurashtra
+ᮃ	Sundanese	Sundanese
+ꠀ	Syloti Nagri	Syloti_Nagri
+ᥐ	Tai Le	Tai_Le
+ᨠ	Tai Tham	Tai_Tham
+ꪀ	Tai Viet	Tai_Viet
+𐬀	Avestan	Avestan
+𑀅	Brahmi	Brahmi
+ᨀ	Buginese	Buginese
+ᝃ	Buhid	Buhid
+𐊷	Carian	Carian
+𒀀	Cuneiform	Cuneiform
+𐠀	Cypriot	Cypriot
+𐐔	Deseret	Deseret
+𓅓	Egyptian Hieroglyphs	Egyptian_Hieroglyphs
+𐌰	Gothic	Gothic
+ᜣ	Hanunoo	Hanunoo
+𐡀	Imperial Aramaic	Imperial_Aramaic
+𐭠	Inscriptional Pahlavi	Inscriptional_Pahlavi
+𐭀	Inscriptional Parthian	Inscriptional_Parthian
+𑂃	Kaithi	Kaithi
+𐨀	Kharoshthi	Kharoshthi
+𐀀	Linear B	Linear_B
+𐊀	Lycian	Lycian
+𐤠	Lydian	Lydian
+ᚏ	Ogham	Ogham
+𐌈	Old Italic	Old_Italic
+𐎠	Old Persian	Old_Persian
+𐩠	Old South Arabian	Old_South_Arabian
+𐰀	Old Turkic	Old_Turkic
+𐒀	Osmanya	Osmanya
+ꡀ	Phags Pa	Phags_Pa
+𐤀	Phoenician	Phoenician
+ꤰ	Rejang	Rejang
+ᚠ	Runic	Runic
+𐑐	Shavian	Shavian
+ᜃ	Tagalog	Tagalog
+ᝣ	Tagbanwa	Tagbanwa
+𐎀	Ugaritic	Ugaritic
+𑄃	Chakma	Chakma
+𐦠	Meroitic Cursive	Meroitic_Cursive
+𐦀	Meroitic Hieroglyphs	Meroitic_Hieroglyphs
+𖼀	Miao	Miao
+𑆃	Sharada	Sharada
+𑃐	Sora Sompeng	Sora_Sompeng
+𑚀	Takri	Takri
+⠎	Braille	Braille
+𐔷	Caucasian Albanian	Caucasian_Albanian
+𖫦	Bassa Vah	Bassa_Vah
+𛰠	Duployan	Duployan
+𐔀	Elbasan	Elbasan
+𑌕	Grantha	Grantha
+𖬜	Pahawh Hmong	Pahawh_Hmong
+𑈈	Khojki	Khojki
+𐙇	Linear A	Linear_A
+𑅒	Mahajani	Mahajani
+𐫁	Manichaean	Manichaean
+𞠂	Mende Kikakui	Mende_Kikakui
+𑘎	Modi	Modi
+𖩏	Mro	Mro
+𐪕	Old North Arabian	Old_North_Arabian
+𐢖	Nabataean	Nabataean
+𐡳	Palmyrene	Palmyrene
+𑫀	Pau Cin Hau	Pau_Cin_Hau
+𐍫	Old Permic	Old_Permic
+𐮏	Psalter Pahlavi	Psalter_Pahlavi
+𑖎	Siddham	Siddham
+𑊾	Khudawadi	Khudawadi
+𑒄	Tirhuta	Tirhuta
+𑢴	Warang Citi	Warang_Citi
+𑜗	Ahom	Ahom
+𔐀	Anatolian Hieroglyphs	Anatolian_Hieroglyphs
+𐣴	Hatran	Hatran
+𑊏	Multani	Multani
+𐲡	Old Hungarian	Old_Hungarian
+𝡐	SignWriting	SignWriting
+𞤉	Adlam	Adlam
+𑰎	Bhaiksuki	Bhaiksuki
+𑱲	Marchen	Marchen
+𐒵	Osage	Osage
+𘈩	Tangut	Tangut
+𑐒	Newa	Newa
+𑴐	Masaram Gondi	Masaram_Gondi
+𛇄	Nushu	Nushu
+𑩜	Soyombo	Soyombo
+𑨋	Zanabazar Square	Zanabazar_Square
+𑠋	Dogra	Dogra
+𑵱	Gunjala Gondi	Gunjala_Gondi
+𐴒	Hanifi Rohingya	Hanifi_Rohingya
+𑻥	Makasar	Makasar
+𖹀	Medefaidrin	Medefaidrin
+𐼙	Old Sogdian	Old_Sogdian
+𐽂	Sogdian	Sogdian
+𐿱	Elymaic	Elymaic
+𞄈	Nyiakeng Puachue Hmong	Nyiakeng Puachue Hmong
+𑧎	Nandinagari	Nandinagari
+𞋡	Wancho	Wancho
+😂	Emoji	Chorasmian
+		Dives Akuru
+		Khitan small script
+		Yezidi
+		Cypro_Minoan
+		Old_Uyghur
+		Tangsa
+		Toto
+		Vithkuqi
